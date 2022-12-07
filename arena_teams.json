@@ -4,7 +4,7 @@
 {"city" : "Tampa Bay",     	"mascot" : "Storm",			"short" : "TB", 	"homeText" : "FFFFFF",	"homeMain" : "041E42",	"homeSecondary" : "89764B",	"awayText" : "041E42",	"awayMain" : "FFFFFF",  "awaySecondary" : "89764B"},
 {"city" : "New Orleans",   	"mascot" : "VooDoo",	    "short" : "NO", 	"homeText" : "FFFFFF",	"homeMain" : "330072",	"homeSecondary" : "C8102E",	"awayText" : "330072",	"awayMain" : "FFFFFF",  "awaySecondary" : "C8102E"},
 {"city" : "Milwaukee",  		"mascot" : "Mustangs",	    "short" : "MIL", 	"homeText" : "C0C0C0",	"homeMain" : "010101",	"homeSecondary" : "E35205",	"awayText" : "010101",	"awayMain" : "FFFFFF",  "awaySecondary" : "E35205"},
-{"city" : "Milwaukee",    	"mascot" : "Rams",	    	"short" : "MIL", 	"homeText" : "FFFFFF",	"homeMain" : "000000",	"homeSecondary" : "0076B6",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "0076B6"},
+{"city" : "Grand Rapids",    	"mascot" : "Rampage",	    	"short" : "GR", 	"homeText" : "C8102E",	"homeMain" : "010101",	"homeSecondary" : "8d9093",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "0076B6"},
 {"city" : "New York",      	"mascot" : "Knights",		"short" : "NY", 	"homeText" : "FFFFFF",	"homeMain" : "002D72",	"homeSecondary" : "FFCD00",	"awayText" : "002D72",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFCD00"},
 {"city" : "Minneapolis",  	"mascot" : "Grizzlies",		"short" : "MIN", 	"homeText" : "FFFFFF",	"homeMain" : "97233F",	"homeSecondary" : "000000",	"awayText" : "97233F",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
 {"city" : "New Orleans", 	"mascot" : "Jazz",			"short" : "NO", 	"homeText" : "FFFFFF",	"homeMain" : "0B162A",	"homeSecondary" : "C83803",	"awayText" : "0B162A",	"awayMain" : "FFFFFF",  "awaySecondary" : "C83803"},
