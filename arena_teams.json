@@ -1,5 +1,5 @@
 [
-{"city" : "Phoenix",     	"mascot" : "Tigers",	  	"short" : "PHN",	"homeText" : "869397",	"homeMain" : "041E42",	"homeSecondary" : "869397",	"awayText" : "041E42",	"awayMain" : "FFFFFF",  "awaySecondary" : "869397"},
+{"city" : "Jacksonville",     	"mascot" : "Sharks",	  	"short" : "JAX",	"homeText" : "FFFFFF",	"homeMain" : "BA0C2F",	"homeSecondary" : "010101",	"awayText" : "BA0C2F",	"awayMain" : "FFFFFF",  "awaySecondary" : "010101"},
 {"city" : "Nashville",   	"mascot" : "Warriors",		"short" : "NSH", 	"homeText" : "D3BC8D",	"homeMain" : "000000",	"homeSecondary" : "FFFFFF",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "D3BC8D"},
 {"city" : "Las Vegas",     	"mascot" : "Stars",			"short" : "LV", 	"homeText" : "FFB612",	"homeMain" : "773141",	"homeSecondary" : "FFB612",	"awayText" : "773141",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFB612"},
 {"city" : "Baltimore",   	"mascot" : "Dragons",	    "short" : "BAL", 	"homeText" : "A71930",	"homeMain" : "0B2265",	"homeSecondary" : "FFFFFF",	"awayText" : "A71930",	"awayMain" : "FFFFFF",  "awaySecondary" : "0B2265"},
